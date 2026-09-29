@@ -1,7 +1,5 @@
 # Hey, I'm Rafi 👋
 
-**Software developer · AI student · Builder of interactive things**
-
 <p align="center">
   <img src="assets/ascii-avatar.png" width="460" alt="ASCII portrait of Ibna Zia Rafi, wearing sunglasses and a jacket" />
 </p>
